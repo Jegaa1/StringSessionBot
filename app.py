@@ -6,5 +6,5 @@ def hello_world():
     return 'Asuran2p0'
 
 
-if __name__ == "__koyeb__":
+if __name__ == "__main__":
     app.run()
